@@ -1,0 +1,9 @@
+This project began with understanding the structure and scope of the Zepto inventory dataset, which contains over 3,700 product SKUs across multiple categories. The first step involved setting up a database in Microsoft SQL Server and creating a structured table to store the dataset with appropriate data types.
+
+The dataset was then imported into SQL Server, followed by initial data validation. This included checking for null values, verifying column consistency, and ensuring correct data types for numerical fields such as MRP and discounted prices. Basic data cleaning steps were performed to improve data quality and prepare it for analysis.
+
+After preparing the data, Exploratory Data Analysis (EDA) was carried out using SQL queries. Key analyses included category-wise product distribution, pricing comparisons, discount calculations, and stock availability checks. Aggregations and conditional queries were used to extract meaningful insights from the dataset.
+
+In addition to SQL, Excel was used for quick exploration, filtering, and basic visualization to better understand patterns and trends in the data.
+
+This project is still ongoing, with continuous improvements being made as new questions arise. The process has helped strengthen practical skills in SQL, data cleaning, and analytical thinking, while reinforcing the importance of iterative learning in real-world data projects.
